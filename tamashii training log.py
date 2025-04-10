@@ -1,4 +1,4 @@
-# fluctlight_journal.py
+# tamashii_journal.py
 
 from datetime import datetime
 
@@ -12,7 +12,7 @@ feeling = input("How did you feel about it? ")
 
 # Format the entry
 entry = f"""
-=== Fluctlight Journal Entry ===
+=== Tamashii Journal Entry ===
 Date: {today}
 Topic: {topic}
 Progress: {what_you_built}
@@ -21,7 +21,7 @@ Reflection: {feeling}
 """
 
 # Save to log file
-with open("fluctlight_log.txt", "a") as file:
+with open("tamashii_log.txt", "a") as file:
     file.write(entry + "\n")
 
-print("\nEntry saved. Keep evolving, Fluctlight.")
+print("\nEntry saved. Keep evolving, Tamashii.")

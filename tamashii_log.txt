@@ -1,0 +1,8 @@
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-10
+Topic: I learned about Variables also datatypes today....
+Progress: I created the profiles of characters such as Eugeo, Kirito, Eugeo etc.. and what i learned new is that about f"" formatted strings 
+Reflection: I'm feeling good to start even a small project first to learn basics and then i'll implement these basics to the goal project of mine to make a real tamashii.ai which can learn just like humans in a dynamic environment not just by dataset but by reinforcement learning like humans do...
+===============================
+
