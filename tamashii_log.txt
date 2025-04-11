@@ -6,3 +6,11 @@ Progress: I created the profiles of characters such as Eugeo, Kirito, Eugeo etc.
 Reflection: I'm feeling good to start even a small project first to learn basics and then i'll implement these basics to the goal project of mine to make a real tamashii.ai which can learn just like humans in a dynamic environment not just by dataset but by reinforcement learning like humans do...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-11
+Topic: I've learned about Conditionals and Loops today!!!
+Progress: I created a lot of intersting challenge's program that was so fun and i learned new things too!! like proper looping through dictionary and all
+Reflection: I'm feeling like yes i can do that if i can do it here then surely i will made the AI Tamashii(Soul) that can learn like us Humans!!!
+===============================
+
