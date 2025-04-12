@@ -14,3 +14,11 @@ Progress: I created a lot of intersting challenge's program that was so fun and 
 Reflection: I'm feeling like yes i can do that if i can do it here then surely i will made the AI Tamashii(Soul) that can learn like us Humans!!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-12
+Topic: I've learn about the input() function and print() function and also how to manipulate the strings!!!
+Progress: i've created the sword formatter and the player welcoming code in the challenge also i understand a lot of things from string manipulation about a lot of functions in it.!!!
+Reflection: i felt soooo good about it and want to do the more and looking forward for the tamashii.ai!!!
+===============================
+
