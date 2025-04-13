@@ -22,3 +22,11 @@ Progress: i've created the sword formatter and the player welcoming code in the 
 Reflection: i felt soooo good about it and want to do the more and looking forward for the tamashii.ai!!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-13
+Topic: I learned about the functions in python today that is used for reusing the codes and it was really convenient isn't it??
+Progress: I created a lot of things in the challenges like character profile maker and potions, mana tracker and all it was reallyy funn!!
+Reflection: I felt like yes i can do it even if it is rn in the basic level but everyone have to start from somewhere isn't it?? so yeahh that is my basic point but someday i'll make the AI that can learn just like us humans so stay tuned!!! ><
+===============================
+
