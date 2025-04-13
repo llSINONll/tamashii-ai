@@ -10,7 +10,7 @@ Reflection: I'm feeling good to start even a small project first to learn basics
 === Tamashii Journal Entry ===
 Date: 2025-04-11
 Topic: I've learned about Conditionals and Loops today!!!
-Progress: I created a lot of intersting challenge's program that was so fun and i learned new things too!! like proper looping through dictionary and all
+Progress: I created a lot of interesting challenge's program that was so fun and i learned new things too!! like proper looping through dictionary and all
 Reflection: I'm feeling like yes i can do that if i can do it here then surely i will made the AI Tamashii(Soul) that can learn like us Humans!!!
 ===============================
 
