@@ -30,3 +30,11 @@ Progress: I created a lot of things in the challenges like character profile mak
 Reflection: I felt like yes i can do it even if it is rn in the basic level but everyone have to start from somewhere isn't it?? so yeahh that is my basic point but someday i'll make the AI that can learn just like us humans so stay tuned!!! ><
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-14
+Topic: I've learnt about the Non primitive data types like List, Tuple and Dictionary by that we can group the elements...
+Progress: I created a character profile by dictionary, Inventory manager using list and Stat Booster using tuple and learned to loop through a list of dictionaries it was fun
+Reflection: i really like to do those tasks and love it soon i'll be a intermediate Ai engineer and will make the Ai that can learn like a human soon.. just wait and watch!!!
+===============================
+
