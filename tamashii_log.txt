@@ -40,7 +40,7 @@ Reflection: i really like to do those tasks and love it soon i'll be a intermedi
 
 
 === Tamashii Journal Entry ===
-Date: 2025-04-16
+Date: 2025-04-15
 Topic: I've learnt how to add more logics and loops with the non primitive datatypes
 Progress: I've created a lot of things in the challenges such as the Inventory finder and Potion counter and stuffs it wa s great
 Reflection: It was amazing to learn new things and it was such a good experience to learn about the tricky things too...
