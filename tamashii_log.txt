@@ -46,3 +46,11 @@ Progress: I've created a lot of things in the challenges such as the Inventory f
 Reflection: It was amazing to learn new things and it was such a good experience to learn about the tricky things too...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-16
+Topic: I've learnt about the advanced dictionary and list today and it was really fun and challenging task...
+Progress: I've created the Inventory count dictionary, inventory merger, nested dictionary and many more!! and also understood the concepts of dictionaries and list in deep...
+Reflection: Iam feeling like a lot of inspired by the things i've done cuz it was great !!!
+===============================
+
