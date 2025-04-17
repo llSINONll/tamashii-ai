@@ -1,0 +1,3 @@
+Name: Sinon
+Level: 12
+Weapon: Hecate II

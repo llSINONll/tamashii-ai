@@ -54,3 +54,11 @@ Progress: I've created the Inventory count dictionary, inventory merger, nested 
 Reflection: Iam feeling like a lot of inspired by the things i've done cuz it was great !!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-17
+Topic: I've learnt about a lot of things today like Advanced concepts of string, lists ops and many more...
+Progress: I've created a character team builder kind of thing in a secret challenge and also did some other stuffs in another challenges like remove duplicates from a list and file reading stuffs it was fun..
+Reflection: I'm feeling like even it is kind of complex i get it too if i really try to look into it and yeahhh it was fun will make the tamashii.ai in reality someday...>< till then see ya~
+===============================
+
