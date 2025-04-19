@@ -70,3 +70,11 @@ Progress: I've created an inventory tracker, battle log parser and loot combiner
 Reflection: It was amazing to learn about new things and apply it to the real problems ...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-19
+Topic: I've learnt about the nesting and more about dictionaries and list of dictionary...
+Progress: I created the Skill Tracker, Skill display Mastery and also Ultimate Skill Viewer too that enhanced my understanding of Dictionary and lists looping..
+Reflection: I'm feeling amazing and tremendous to learn new things and how can we handle complex dictionaries and lists...and surely will make the tamashii.ai...
+===============================
+
