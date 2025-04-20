@@ -78,3 +78,11 @@ Progress: I created the Skill Tracker, Skill display Mastery and also Ultimate S
 Reflection: I'm feeling amazing and tremendous to learn new things and how can we handle complex dictionaries and lists...and surely will make the tamashii.ai...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-20
+Topic: I've learnt about that how to handle the dictionaries inside the list ... and it was fun really..!!
+Progress: I've created Monster Hunte Inventory Updater, Monster Skill Updater and mainly an Inventory Merger!! and it was complex but good to make indeed...
+Reflection: I'm feeling like i can do it even if it is complex or not to the point but will achieve what i want!! i.e. tamashii.ai!!!
+===============================
+
