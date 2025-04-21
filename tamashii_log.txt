@@ -86,3 +86,11 @@ Progress: I've created Monster Hunte Inventory Updater, Monster Skill Updater an
 Reflection: I'm feeling like i can do it even if it is complex or not to the point but will achieve what i want!! i.e. tamashii.ai!!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-21
+Topic: I've learnt about the Nest Data Structures and Conditional Logics in it and it was really complex huh!? but fun hehe
+Progress: I've created a Monster Evolution Tracker and Monster Inventory Swap challenges and those were really tough but i loved to do those...
+Reflection: I'm feeling so confident after doing so complex things hope so these will come handy in the tamashii.ai!!!
+===============================
+
