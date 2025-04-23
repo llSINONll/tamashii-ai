@@ -102,3 +102,11 @@ Progress: I've understand the better use of dictionary and it's applications als
 Reflection: I'm feeling good to solve those challenges and working on my Python skills to someday make tamashii.ai!!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-23
+Topic: I've learnt about the Nested Loops with String format today!!
+Progress: I've created the Monster Combo Maker and Fusion Monster Creator and those were really tough to make but i get the better understanding of loops!!
+Reflection: I'm feeling good to do those amazing challenges and it is fun to make soon will make tamashii.ai an ai which can learn just like humans...
+===============================
+
