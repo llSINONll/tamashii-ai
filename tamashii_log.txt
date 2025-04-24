@@ -110,3 +110,11 @@ Progress: I've created the Monster Combo Maker and Fusion Monster Creator and th
 Reflection: I'm feeling good to do those amazing challenges and it is fun to make soon will make tamashii.ai an ai which can learn just like humans...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-24
+Topic: I've learnt about the sorting in python and lambda function that is a nameless function... today!!!
+Progress: I've created a lot of things today such as Sort Alphabetically by Name, sort by no. of abilitites, sorted by elements (Alphabetically), Ability Mastery Counter and Sort the Monster codes and understood how the sorted function works and lambda function too in it as a key...
+Reflection: I'm feeling that slowly but surely i'll make the tamashii.ai and let the ai learn by itself using the dynamic environment for them..!!
+===============================
+
