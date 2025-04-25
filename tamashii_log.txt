@@ -118,3 +118,11 @@ Progress: I've created a lot of things today such as Sort Alphabetically by Name
 Reflection: I'm feeling that slowly but surely i'll make the tamashii.ai and let the ai learn by itself using the dynamic environment for them..!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-25
+Topic: I've learnt about nested loops and matrix today!!
+Progress: I created Battle Grid Basics and Elemental Strengths and understand that more things about nested loops...
+Reflection: I'm feeling good and going to do more work on my python skills to make tamashii.ai someday!!
+===============================
+
