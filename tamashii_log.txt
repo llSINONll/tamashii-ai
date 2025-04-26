@@ -126,3 +126,11 @@ Progress: I created Battle Grid Basics and Elemental Strengths and understand th
 Reflection: I'm feeling good and going to do more work on my python skills to make tamashii.ai someday!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-26
+Topic: I've learnt more about the functions today in deep and it was fun!!!
+Progress: I've created Monster Power Calculator, Elemental Power Boost and Ultimate Monster Profile today!!! and those were really good challenges that tested my knowledge on the functions and i understood it better now
+Reflection: I'm feeling good and a step near to my goal to created tamashii.ai!!
+===============================
+
