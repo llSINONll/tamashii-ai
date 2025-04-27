@@ -134,3 +134,11 @@ Progress: I've created Monster Power Calculator, Elemental Power Boost and Ultim
 Reflection: I'm feeling good and a step near to my goal to created tamashii.ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-27
+Topic: I've learnt more about Lists inside Dictionary!!!
+Progress: I've created Monster Upgrade Inventory and monster upgrade checker and understood more about the lists inside the dictionary!!
+Reflection: It was fun to learn more about things in Python and stepping forward to make tamashii.ai !!!
+===============================
+
