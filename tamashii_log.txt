@@ -142,3 +142,11 @@ Progress: I've created Monster Upgrade Inventory and monster upgrade checker and
 Reflection: It was fun to learn more about things in Python and stepping forward to make tamashii.ai !!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-28
+Topic: I've learnt about if else comparsion with the functions and it was amazing!!
+Progress: I've created a simple battle simulator, power battle simulator, monster battle royale and the monster power ranking!!! and those were really complex and hard to do ... 
+Reflection: I'm feeling more comfortable with the lambda and sorted funcctions now that clears a lot of doubts and i'm one step near to make tamashii.ai!!!
+===============================
+
