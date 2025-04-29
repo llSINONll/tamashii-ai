@@ -150,3 +150,11 @@ Progress: I've created a simple battle simulator, power battle simulator, monste
 Reflection: I'm feeling more comfortable with the lambda and sorted funcctions now that clears a lot of doubts and i'm one step near to make tamashii.ai!!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-29
+Topic: I've learnt about how can we merge the different dictionaries in a list in the Fusion System...
+Progress: I've created a Basic Monster Fusion and Fusion Power Calculator that tested my ability to make the complex tasks easy...and i understood the many concepts while fusing
+Reflection: I'm feeling good to do those challenges and expanding my knowledge in python soon will start to make the real project of tamashii.ai...
+===============================
+
