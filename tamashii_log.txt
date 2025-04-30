@@ -158,3 +158,11 @@ Progress: I've created a Basic Monster Fusion and Fusion Power Calculator that t
 Reflection: I'm feeling good to do those challenges and expanding my knowledge in python soon will start to make the real project of tamashii.ai...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-04-30
+Topic: I've learnt about Tactical Combat Decisions and Ai logics..
+Progress: I've created an Elemental Counter Logic and the Monster Tournament Bracket!!! and it refined my understanding of functions and logics in it
+Reflection: I'm feeling good to work on this complex problem and learned a lot from it and how the tactics works!!
+===============================
+
