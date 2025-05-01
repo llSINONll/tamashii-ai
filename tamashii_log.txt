@@ -166,3 +166,11 @@ Progress: I've created an Elemental Counter Logic and the Monster Tournament Bra
 Reflection: I'm feeling good to work on this complex problem and learned a lot from it and how the tactics works!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-01
+Topic: I learned about the implementation of dictionaries and functions while applying it in the Monster Shop & Currency Systems...
+Progress: I've created the Monster Shop with Currency and the Monster Tournament and understood the more about the functions and dictionaries...
+Reflection: I'm feeling tremendous to do these complex scenario problems that test my abilities to solve the real world gaming props. and soon will make the tamashii.ai soon!!!
+===============================
+
