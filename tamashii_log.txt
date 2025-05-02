@@ -174,3 +174,11 @@ Progress: I've created the Monster Shop with Currency and the Monster Tournament
 Reflection: I'm feeling tremendous to do these complex scenario problems that test my abilities to solve the real world gaming props. and soon will make the tamashii.ai soon!!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-02
+Topic: I've learnt about the moore List's Methods...
+Progress: I understood the more concepts of the methods in list and created a Inventory System and Monster Squad Manager..
+Reflection: I'm feeling tremendous to learn more methods of list and literally there are so many it was good damnn..
+===============================
+
