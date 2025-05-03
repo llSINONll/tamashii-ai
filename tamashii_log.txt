@@ -182,3 +182,11 @@ Progress: I understood the more concepts of the methods in list and created a In
 Reflection: I'm feeling tremendous to learn more methods of list and literally there are so many it was good damnn..
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-03
+Topic: I've learnt about how to manipulate the nested dictionaries...
+Progress: I've created the Monster Tech Tree Upgrade System and Monster Ability Cooldown System by which my understanding of nested dictionaries upgraded!!!
+Reflection: I'm feeling good to solve the complex challenges and make new things and making my brain to understand the more about python to make tamashii.ai!!
+===============================
+
