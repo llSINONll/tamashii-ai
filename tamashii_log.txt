@@ -190,3 +190,11 @@ Progress: I've created the Monster Tech Tree Upgrade System and Monster Ability 
 Reflection: I'm feeling good to solve the complex challenges and make new things and making my brain to understand the more about python to make tamashii.ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-04
+Topic: I've Started the Python's Library name Pandas today as my basic python is almost end...
+Progress: I've just understood the basic things in pandas library
+Reflection: It was good to start a new thing and it was awesome that i can now handle the large datasets... it will be a crucial step to create the Tamashii.ai!!
+===============================
+
