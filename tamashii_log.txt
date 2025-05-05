@@ -198,3 +198,11 @@ Progress: I've just understood the basic things in pandas library
 Reflection: It was good to start a new thing and it was awesome that i can now handle the large datasets... it will be a crucial step to create the Tamashii.ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-05
+Topic: I've learnt about the OOps or Object Oriented Programming in Python and learnt about the classes, ojects, methods, __init__ method and more!!!
+Progress: I've created the Monster class with the Gold & Abilities today also Spend Gold for an update thing...
+Reflection: It was good to learn OOPM in python too as i've already studied it in C++ too but for tamashii.ai in Python it is important..!!
+===============================
+
