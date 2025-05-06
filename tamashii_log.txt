@@ -206,3 +206,11 @@ Progress: I've created the Monster class with the Gold & Abilities today also Sp
 Reflection: It was good to learn OOPM in python too as i've already studied it in C++ too but for tamashii.ai in Python it is important..!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-06
+Topic: I've learnt about the Inheritance and Abstraction in OOPM in python!!
+Progress: I've created an Abstract Monster Blueprint and Monster Combat System with Random Damage and understood how random.randint() is used and all!!
+Reflection: It was all good to learn more things in OOPM it was kind of new though to learn about it in python...soon tamashii.ai!!
+===============================
+
