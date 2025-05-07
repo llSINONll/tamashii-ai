@@ -214,3 +214,11 @@ Progress: I've created an Abstract Monster Blueprint and Monster Combat System w
 Reflection: It was all good to learn more things in OOPM it was kind of new though to learn about it in python...soon tamashii.ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-07
+Topic: I've implemented OOPM concept and made a Turn-Based Monster Battle!!
+Progress: I've learnt how to use OOPM concepts properly to make the real time battle game kind of thing...also learnt how to use the time library
+Reflection: It was good to implement the OOPM concepts to make something...
+===============================
+
