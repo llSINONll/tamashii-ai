@@ -222,3 +222,11 @@ Progress: I've learnt how to use OOPM concepts properly to make the real time ba
 Reflection: It was good to implement the OOPM concepts to make something...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-08
+Topic: Today I've learnt about the Multiple Inheritance and polymorphism
+Progress: I've created the Trading Monster system and Polymorphic Monster Army system that increased my understading of OOPM concepts in Python...
+Reflection: It was tremendous to solve those problems and learn more about OOPM by that soon will work on the tamashii.ai !!
+===============================
+
