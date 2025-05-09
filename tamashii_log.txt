@@ -230,3 +230,11 @@ Progress: I've created the Trading Monster system and Polymorphic Monster Army s
 Reflection: It was tremendous to solve those problems and learn more about OOPM by that soon will work on the tamashii.ai !!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-09
+Topic: I've learnt more about class inheritance and more things like super() method and all in it..
+Progress: I've created a device system by which i understood the proper functionality of the OOPM concepts..
+Reflection: It was good to solve the real world problems using OOPM in python soon.. tamashii.ai!!!
+===============================
+
