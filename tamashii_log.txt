@@ -238,3 +238,11 @@ Progress: I've created a device system by which i understood the proper function
 Reflection: It was good to solve the real world problems using OOPM in python soon.. tamashii.ai!!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-10
+Topic: I've learnt about how to make Flash Card app today!!
+Progress: I've created a Flash Card app using OOPM and i understood the OOPM concepts by that more
+Reflection: It was good to make something that helps in real world by OOPM!!
+===============================
+
