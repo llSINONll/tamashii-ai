@@ -246,3 +246,11 @@ Progress: I've created a Flash Card app using OOPM and i understood the OOPM con
 Reflection: It was good to make something that helps in real world by OOPM!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-11
+Topic: I've learnt more about Tkinter in Python today and implemented a functionality in my Flash Card app
+Progress: I've created a new feature named Auto mode in the Flash Card app and understood the proper functionality of it!!
+Reflection: It was good to make something and upgrade it!! soon will work on tamashii.ai!!
+===============================
+
