@@ -254,3 +254,11 @@ Progress: I've created a new feature named Auto mode in the Flash Card app and u
 Reflection: It was good to make something and upgrade it!! soon will work on tamashii.ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-12
+Topic: I've learnt a lot things today like how to use handle API request and JSON data and responses using ISS Overhead Notifier...
+Progress: I've created an ISS Overhead Notifier and understood the concepts such as JSON response handling and API requests!!
+Reflection: It was good to learn about the API requests and responses!!
+===============================
+
