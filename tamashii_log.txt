@@ -262,3 +262,11 @@ Progress: I've created an ISS Overhead Notifier and understood the concepts such
 Reflection: It was good to learn about the API requests and responses!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-13
+Topic: I've created a quiz app project today!!
+Progress: I've created the quizzler app project and used the previous topics for it!
+Reflection: It was tremendous to use the previous things to make an application project...
+===============================
+
