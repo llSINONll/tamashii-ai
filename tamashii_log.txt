@@ -270,3 +270,11 @@ Progress: I've created the quizzler app project and used the previous topics for
 Reflection: It was tremendous to use the previous things to make an application project...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-14
+Topic: I've learnt to make the core of my Tamashii.ai
+Progress: I've created the core of my Tamashii.ai today and understood the functionality of the core AI..
+Reflection: It was the initial hence important step to making the tamashii.ai!! it was good...
+===============================
+
