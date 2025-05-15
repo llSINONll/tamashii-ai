@@ -278,3 +278,11 @@ Progress: I've created the core of my Tamashii.ai today and understood the funct
 Reflection: It was the initial hence important step to making the tamashii.ai!! it was good...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-15
+Topic: I've added the GPT to my Tamashii Ai core!!
+Progress: I've understood how to add the GPT to our Ai core for now..
+Reflection: It was good to get all of the answers given by AI from any question!!
+===============================
+
