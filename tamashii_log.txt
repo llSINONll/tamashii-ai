@@ -286,3 +286,11 @@ Progress: I've understood how to add the GPT to our Ai core for now..
 Reflection: It was good to get all of the answers given by AI from any question!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-16
+Topic: I've created the Emotion based response system today and it was a quick challenge..
+Progress: I've created the Emotion based response system in today's quick challenge
+Reflection: It was important to learn how the chatbot reponse to our emotion and all...
+===============================
+
