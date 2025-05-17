@@ -294,3 +294,11 @@ Progress: I've created the Emotion based response system in today's quick challe
 Reflection: It was important to learn how the chatbot reponse to our emotion and all...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-17
+Topic: I've learnt about short term memory for the chat bot today
+Progress: By created the Short term memory now chatbot will work efficiently..
+Reflection: it was good..
+===============================
+
