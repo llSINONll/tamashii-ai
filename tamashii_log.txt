@@ -302,3 +302,11 @@ Progress: By created the Short term memory now chatbot will work efficiently..
 Reflection: it was good..
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-18
+Topic: I've learnt more about OOPM today to make an application..
+Progress: I've created a CLI based To-Do application that strenghten my concepts of OOPM..
+Reflection: It was amazing to do those challenges to make my concepts more clear..
+===============================
+
