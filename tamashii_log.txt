@@ -310,3 +310,11 @@ Progress: I've created a CLI based To-Do application that strenghten my concepts
 Reflection: It was amazing to do those challenges to make my concepts more clear..
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-19
+Topic: I've learnt more about the basics applications by python..
+Progress: I've created a memory based game in python that strenghten my concepts of OOPM and more in python..
+Reflection: it was good to make something you learnt from isn't it?? that's why it was fun to make a basic game but fun game by that you've learnt...
+===============================
+
