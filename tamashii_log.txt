@@ -318,3 +318,11 @@ Progress: I've created a memory based game in python that strenghten my concepts
 Reflection: it was good to make something you learnt from isn't it?? that's why it was fun to make a basic game but fun game by that you've learnt...
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-20
+Topic: I've learnt more about practical implementation through a mini project in python...
+Progress: I've Created a mini file vault app! that is good for my python knowledge and it built up a lot of concepts...
+Reflection: it was amazing to make something like that project...!!
+===============================
+
