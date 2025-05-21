@@ -326,3 +326,11 @@ Progress: I've Created a mini file vault app! that is good for my python knowled
 Reflection: it was amazing to make something like that project...!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-21
+Topic: I've learnt about one more project today in python
+Progress: I've created a number guess AI... that builds up my loops and binary search logics in python..
+Reflection: it was amazing that by so simple things we are create something so interesting...
+===============================
+
