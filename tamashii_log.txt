@@ -342,3 +342,11 @@ Progress: created the context memory and thought analysis
 Reflection: it was noicee
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-23
+Topic: I've learnt more about the chatbots and integrated it in tamashii ai...
+Progress: I've understood the working of chatbot and the memory integration and added it to tamashii.ai!!
+Reflection: it was all over nice to add those features to the brain of tamashii ai!!
+===============================
+
