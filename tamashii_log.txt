@@ -350,3 +350,11 @@ Progress: I've understood the working of chatbot and the memory integration and 
 Reflection: it was all over nice to add those features to the brain of tamashii ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-24
+Topic: I've learnt how to add the GPT to the tamashii.ai!!
+Progress: I've added the GPT to the tamashii ai!! now it is connected to the LLM that gives a lot of advantages and amazing responses!
+Reflection: It was amazing to do that!!
+===============================
+
