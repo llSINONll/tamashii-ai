@@ -358,3 +358,11 @@ Progress: I've added the GPT to the tamashii ai!! now it is connected to the LLM
 Reflection: It was amazing to do that!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-25
+Topic: I've added the more refinement to the tamashii ai brain!!
+Progress: Refines the memory of the tamashii ai brain without intervention!!
+Reflection: It was amazing to add those things to the tamashii's brain!!
+===============================
+
