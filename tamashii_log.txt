@@ -366,3 +366,11 @@ Progress: Refines the memory of the tamashii ai brain without intervention!!
 Reflection: It was amazing to add those things to the tamashii's brain!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-26
+Topic: I've learnt about the libraries of Python to add the voice input and output to tamashii ai such as speechrecognization and pyttsx3 for STT and TTS..
+Progress: I've created the Input and Output Audio to the Tamashii ai!! by which i've understood the concepts in libraries like speechrecognization and pyttsx3 for STT and TTS...
+Reflection: It was amazing to do thing like that it was kinda dream come true to do that!! soon tamashii.ai!!
+===============================
+
