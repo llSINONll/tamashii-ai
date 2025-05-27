@@ -374,3 +374,11 @@ Progress: I've created the Input and Output Audio to the Tamashii ai!! by which 
 Reflection: It was amazing to do thing like that it was kinda dream come true to do that!! soon tamashii.ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-27
+Topic: I've learnt about the Emotional Memory system in tamashii ai!!
+Progress: I've added the Emotional Memory System in tamashii ai today!!
+Reflection: it was good to add this system by which tamashii ai can feel emotions now!!
+===============================
+
