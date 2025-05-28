@@ -382,3 +382,11 @@ Progress: I've added the Emotional Memory System in tamashii ai today!!
 Reflection: it was good to add this system by which tamashii ai can feel emotions now!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-28
+Topic: I've learnt more about the GUI using Tkinter..
+Progress: I've created a GUI for Tamashii ai using Tkinter today!!
+Reflection: It was amazing to make the GUI for Tamashii ai!!
+===============================
+
