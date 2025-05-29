@@ -1,0 +1,9 @@
+
+---
+
+### ✅ `requirements.txt`
+
+```txt
+openai
+pyttsx3
+tk

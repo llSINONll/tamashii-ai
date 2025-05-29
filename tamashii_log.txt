@@ -390,3 +390,11 @@ Progress: I've created a GUI for Tamashii ai using Tkinter today!!
 Reflection: It was amazing to make the GUI for Tamashii ai!!
 ===============================
 
+
+=== Tamashii Journal Entry ===
+Date: 2025-05-29
+Topic: I've Finally Completed the Python Chapter for now and for now made the Tamashii Chatbot full version now in future i'll make the Tamashii.ai further!!
+Progress: I've created the whole Tamashii.ai today and soon will update it when i'll learn more about AI and Unity/Unreal Engine and their Environment making...
+Reflection: It was Amazing to complete the project but it is still in progress......so stay tuned!
+===============================
+
